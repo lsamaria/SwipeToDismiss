@@ -14,6 +14,7 @@
 		38797692237EB4990069B4F1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 38797691237EB4990069B4F1 /* Assets.xcassets */; };
 		38797695237EB4990069B4F1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 38797693237EB4990069B4F1 /* LaunchScreen.storyboard */; };
 		387976A0237EB4990069B4F1 /* SwiptToDismissUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3879769F237EB4990069B4F1 /* SwiptToDismissUITests.swift */; };
+		387976AB237EB50E0069B4F1 /* MyController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 387976AA237EB50E0069B4F1 /* MyController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +39,7 @@
 		3879769B237EB4990069B4F1 /* SwiptToDismissUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiptToDismissUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3879769F237EB4990069B4F1 /* SwiptToDismissUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiptToDismissUITests.swift; sourceTree = "<group>"; };
 		387976A1237EB4990069B4F1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		387976AA237EB50E0069B4F1 /* MyController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,6 +84,7 @@
 				38797688237EB4980069B4F1 /* AppDelegate.swift */,
 				3879768A237EB4980069B4F1 /* SceneDelegate.swift */,
 				3879768C237EB4980069B4F1 /* ViewController.swift */,
+				387976AA237EB50E0069B4F1 /* MyController.swift */,
 				3879768E237EB4980069B4F1 /* Main.storyboard */,
 				38797691237EB4990069B4F1 /* Assets.xcassets */,
 				38797693237EB4990069B4F1 /* LaunchScreen.storyboard */,
@@ -203,6 +206,7 @@
 				3879768D237EB4980069B4F1 /* ViewController.swift in Sources */,
 				38797689237EB4980069B4F1 /* AppDelegate.swift in Sources */,
 				3879768B237EB4980069B4F1 /* SceneDelegate.swift in Sources */,
+				387976AB237EB50E0069B4F1 /* MyController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
